@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1619639543 source:c:\users\mahir\desktop\masaüstü\algo\202802036-mahirbuğrayaŞar\main.c
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<string.h>
+
